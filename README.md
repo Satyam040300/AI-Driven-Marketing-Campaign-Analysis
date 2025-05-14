@@ -34,11 +34,11 @@ The goal of this project is to:
 
 5. Performance Metrics: Evaluate model accuracy, recall, F1, etc.
 
-## Sample Insights
-Campaigns targeting Men 18-24 via Email and Google Ads had higher conversion rates.
+## Insights
+1. Campaigns targeting Men 18-24 via Email and Google Ads had higher conversion rates.
 
-Acquisition Cost and impressions are major factors in lead conversion.
+2. Acquisition Cost and impressions are major factors in lead conversion.
 
-Clustering revealed distinct cost-performance groupings, helping identify underperforming segments.
+3. Clustering revealed distinct cost-performance groupings, helping identify underperforming segments.
 
 
