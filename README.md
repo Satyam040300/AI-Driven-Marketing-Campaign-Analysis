@@ -64,7 +64,7 @@ The goal of this project is to:
 
 
 4. Men 18-24 + Influencer (Cluster 4) performs better than Men 18-24 + Email (Cluster 0).
- - Try moving more budget from email to influencer for this group.
+   Try moving more budget from email to influencer for this group.
      
 
 5. Acquisition Cost and impressions are major factors in lead conversion.
