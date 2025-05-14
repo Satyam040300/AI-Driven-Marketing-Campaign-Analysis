@@ -51,9 +51,9 @@ The goal of this project is to:
 
 
 2. Channel Optimization
-Influencer campaigns (Clusters 1 & 4) yield high conversion rates but differ in ROI and duration — suggesting different audience-channel fit.
+   Influencer campaigns (Clusters 1 & 4) yield high conversion rates but differ in ROI and duration — suggesting different audience-channel fit.
 
-Search campaigns seem effective across clusters — particularly for Men 25-34 and Women 25-34.
+   Search campaigns seem effective across clusters — particularly for Men 25-34 and Women 25-34.
 
 
 3. If the goal is ROI:
