@@ -35,10 +35,40 @@ The goal of this project is to:
 5. Performance Metrics: Evaluate model accuracy, recall, F1, etc.
 
 ## Insights
-1. Campaigns targeting Men 18-24 via Email and Google Ads had higher conversion rates.
+1.  Tailored Campaign Strategies
+   Each cluster reveals a common pattern that helps you design personalized marketing strategies:
 
-2. Acquisition Cost and impressions are major factors in lead conversion.
+     Cluster 1 (High Conversion Rate, Low Duration, "All Ages", "Influencer"):
+     → Short campaigns using influencers work well across all ages.
+     → Ideal for broad, fast-response promotions.
 
-3. Clustering revealed distinct cost-performance groupings, helping identify underperforming segments.
+     Cluster 3 (High ROI and High Conversion Rate, "Men 25-34", "Search"):
+     → Search ads targeted at this group are very efficient.
+     → Scale this segment for performance.
+
+     Cluster 0 (Low conversion and ROI, "Men 18-24", "Email"):
+     → Email might not be effective for this segment — consider testing new channels.
+
+
+2. Channel Optimization
+Influencer campaigns (Clusters 1 & 4) yield high conversion rates but differ in ROI and duration — suggesting different audience-channel fit.
+
+Search campaigns seem effective across clusters — particularly for Men 25-34 and Women 25-34.
+
+
+3. If the goal is ROI:
+   Prioritize clusters like Cluster 2 (Women 25–34, Search) and Cluster 5 (Men 25–34, Email) with ROI above 6.
+
+   If the goal is high conversion:
+   Focus on Cluster 4 and Cluster 6.
+
+
+4. Men 18-24 + Influencer (Cluster 4) performs better than Men 18-24 + Email (Cluster 0).
+ - Try moving more budget from email to influencer for this group.
+     
+
+5. Acquisition Cost and impressions are major factors in lead conversion.
+
+6. Clustering revealed distinct cost-performance groupings, helping identify underperforming segments.
 
 
