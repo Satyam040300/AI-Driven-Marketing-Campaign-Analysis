@@ -24,15 +24,15 @@ The goal of this project is to:
 | Scaling | StandardScaler |
 
 ## Key Features
-Conversion Rate Analysis: Visual distribution and threshold setting
+1. Conversion Rate Analysis: Visual distribution and threshold setting
 
-Clustering: Segment campaigns into behaviorally distinct groups
+2. Clustering: Segment campaigns into behaviorally distinct groups
 
-Lead Conversion Prediction: Trained Random Forest classifier
+3. Lead Conversion Prediction: Trained Random Forest classifier
 
-Feature Importance: Determine what influences conversion most
+4. Feature Importance: Determine what influences conversion most
 
-Performance Metrics: Evaluate model accuracy, recall, F1, etc.
+5. Performance Metrics: Evaluate model accuracy, recall, F1, etc.
 
 ## Sample Insights
 Campaigns targeting Men 18-24 via Email and Google Ads had higher conversion rates.
